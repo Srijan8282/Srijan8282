@@ -1,11 +1,11 @@
 Hi, This is Srijan, final year student from Jadavpur University, a passionate competitive programmer and a MERN stack web developer, highly passionate in competitive programming and web development. A hardworking individual with in-depth knowledge of language, tool and framework, looking forward to work in a software company.
 
 My Current CP ratings of various websites.
-LeetCode   : Knight (Max. rating 1932, Global Top 4%)
+LeetCode   : Knight (Max. rating 1952, Global Top 3.5%)
 CodeChef   : 4 Star (Max. rating 1806, Global rank under 5k)
 CodeForces : Pupil (Max. rating 1243)
-CodeStudio : Master (Max. rating 3543, Global Top 1%)
-GfG        : Institute rank : 13
+CodeStudio : Master (Max. rating 3584, Global Top 1%)
+GfG        : Institute rank : 12
 HackerRank : 5 Star in Python, 4 Star in Problem Solving, 4 Star in C++, MySQL
 
 • Achievements-
