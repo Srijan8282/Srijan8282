@@ -1,7 +1,7 @@
-Hi, This is Srijan, final year student from Jadavpur University, a passionate competitive programmer and a MERN stack web developer, highly passionate in competitive programming and web development. A hardworking individual with in-depth knowledge of language, tool and framework, looking forward to work in a software company.
+Hi, This is Srijan, graduated from Jadavpur University, a passionate competitive programmer and a MERN stack web developer, highly passionate in competitive programming and web development. A hardworking individual with in-depth knowledge of language, tool and framework, looking forward to work in a software company. Currently I am working as a SDE with 1 year and 4 months+ experience.
 
 My Current CP ratings of various websites.
-LeetCode   : Knight (Max. rating 1952, Global Top 3.5%)
+LeetCode   : Knight (Max. rating 1983, Global Top 2.7%)
 CodeChef   : 4 Star (Max. rating 1806, Global rank under 5k)
 CodeForces : Pupil (Max. rating 1243)
 CodeStudio : Master (Max. rating 3584, Global Top 1%)
@@ -20,10 +20,13 @@ HackerRank : 5 Star in Python, 4 Star in Problem Solving, 4 Star in C++, MySQL
 -> Global Rank 1171 out of 22k+ participants in LeetCode Biweekly Contest 105
 
 Languages:
-Programming Languages: C++, Python, Javascript, MySQL
+Programming Languages: C++, Python, Javascript, MySQL, Postgres
 
 Wev Developement Tech Stacks:
-HTML, CSS, Javascript, Bootstrap, Tailwind CSS, React.Js, Node.js, Rapid API
+HTML, CSS, Javascript, Flask, Bootstrap, Tailwind CSS, React.Js, Node.js, Rapid API
+
+Data Analysis Tech Stack:
+Python, Pandas, Plotly, Numpy, llama3, Langchain, PandasAI, Highcharts, AG Grids, PYGwalker
 
 Core CSE Topics:
 Data Structure and Algorithms, Object Oriented Programming, Database Management System, Cloud and Networking
