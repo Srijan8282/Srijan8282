@@ -1,4 +1,4 @@
-Hi, This is Srijan, graduated from Jadavpur University, a passionate competitive programmer and a MERN stack web developer, highly passionate in competitive programming and web development. A hardworking individual with in-depth knowledge of language, tool and framework, looking forward to work in a software company. Currently I am working as a SDE with 1 year and 4 months+ experience.
+Hi, This is Srijan, graduated from Jadavpur University, a passionate competitive programmer and a MERN stack web developer, highly passionate in competitive programming and web development. A hardworking individual with in-depth knowledge of language, tool and framework, looking forward to work in a software company. Currently I am working as a SDE with 1 year and 8 months+ experience.
 
 My Current CP ratings of various websites.
 LeetCode   : Knight (Max. rating 1983, Global Top 2.7%)
